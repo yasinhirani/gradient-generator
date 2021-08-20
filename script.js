@@ -62,7 +62,7 @@ const getColorByText = () => {
 }
 }
 window.onload = getColor();
-window.onload = alert("Developed by Yasin Hirani & Designed by Mitul Patel");
+// window.onload = alert("Developed by Yasin Hirani & Designed by Mitul Patel");
 
 const copyEmail = () =>{
     const myCode = document.getElementById('code');
