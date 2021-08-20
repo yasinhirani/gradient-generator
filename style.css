@@ -8,9 +8,23 @@ html,body{
     height: 100%;
     overflow: hidden;
 }
+.cursor-pointer{
+    cursor: pointer;
+}
+.main-wrapper{
+    background-color: rgb(230, 230, 230);
+}
+.wrapper{
+  width: 830px;
+  height: auto;
+  top: -100px;
+   left: 50%;
+   transform: translateX(-50%);
+   background-color: white;
+}
 .gradient{
-    width: 600px;
-    height: 300px;
-    border: 1px solid black;
-    margin-top: 40px;
+    /* width: 600px; */
+    height: 250px;
+    /* border: 1px solid black; */
+    /* margin-top: 40px; */
 }
